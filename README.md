@@ -9,3 +9,5 @@
 [4 - Flatten](https://github.com/prikshit8/Flatten)
 
 [5 - Deep Clone](https://github.com/prikshit8/Deep-Clone)
+
+[6 - Throttle](https://github.com/prikshit8/Throttle)
