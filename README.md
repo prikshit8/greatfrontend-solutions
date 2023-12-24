@@ -7,3 +7,5 @@
 [3 - Debounce](https://github.com/prikshit8/Debounce)
 
 [4 - Flatten](https://github.com/prikshit8/Flatten)
+
+[5 - Deep Clone](https://github.com/prikshit8/Deep-Clone)
