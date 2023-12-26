@@ -11,3 +11,5 @@
 [5 - Deep Clone](https://github.com/prikshit8/Deep-Clone)
 
 [6 - Throttle](https://github.com/prikshit8/Throttle)
+
+[7 - Limit](https://github.com/prikshit8/Limit)
